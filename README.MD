@@ -1,4 +1,4 @@
-# Nome do Projeto
+# Calculadora de Médias Acadêmicas (RAD) em Python
 
 ![Imagem](radLogo.png)
 
